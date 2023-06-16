@@ -30,7 +30,7 @@ But we're not just creating an app. We're aiming to build a bridge, a bridge tha
 - `Machine Learning/Data/`: Contains the dataset used in this project.
 - `Machine Learning/Collab/`: Contains Jupyter notebooks used for data preprocessing, modeling and evaluating the model
 - `Machine Learning/models/`: Contains saved models
-- - `mimage/`: Contains screenshoots of the project
+- `image/`: Contains screenshoots of the project
 
 ## Technologies & Dependencies
 
