@@ -38,7 +38,6 @@ This project is built with Node.js and relies on several libraries for machine l
 
 - [Node.js](https://nodejs.org/): A JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [Express](https://expressjs.com/): Fast, unopinionated, minimalist web framework for Node.js.
-- [Mongoose](https://mongoosejs.com/): Elegant MongoDB object modeling for Node.js.
 - [TensorFlow.js](https://www.tensorflow.org/js): A JavaScript library for training and deploying ML models in the browser and on Node.js.
 - [Scikit-learn](https://scikit-learn.org/stable/): A Python library that provides simple and efficient tools for data mining and data analysis.
 - [TensorFlow](https://www.tensorflow.org/): An end-to-end open source platform for machine learning.
