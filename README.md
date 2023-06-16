@@ -19,6 +19,12 @@ But we're not just creating an app. We're aiming to build a bridge, a bridge tha
 ![Recommendations Page](https://github.com/klstak/NutriGie/blob/master/image/mobile%20(3).png)
 ![Daily Nutritional Tracking](https://github.com/klstak/NutriGie/blob/master/image/mobile%20(4).png) 
 
+## Repositories
+
+- **Frontend & Backend:** [Website](https://github.com/Amharrayadin/nutrigie)
+- **Machine Learning:** [ML](https://github.com/klstak/NutriGie)
+
+
 ## Features
 
 - Personalized food recommendations
