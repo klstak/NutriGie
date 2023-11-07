@@ -8,7 +8,7 @@ But we're not just creating an app. We're aiming to build a bridge, a bridge tha
 
 | Name | Role | LinkedIn |
 |------|------|----------|
-| Nabilla Salsa Billa | ML | [LinkedIn](https://www.linkedin.com/in/nbilasals/) |
+| Nabilla Salsa Billa | ML | [LinkedIn](https://www.linkedin.com/in//) |
 | Muh. Amhar Rayadin | ML | [LinkedIn](https://www.linkedin.com/in/muhamad-amhar-rayadin-204b4b221/) |
 | Michael Pascalis S| CC | [LinkedIn](https://www.linkedin.com/in/michaelpascalissimanjuntak/)|
 |Edwin Mayleo C| CC | [LinkedIn](https://www.linkedin.com/in/edwin-mayleo-chiandra-9981b3247/)|
